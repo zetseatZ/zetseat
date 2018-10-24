@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ZETSEAT"
+title                    : "ZETSEAT - Research, Traning, and Consultancy Serivice"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
