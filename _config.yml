@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "ZETSEAT"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "ZETSEAT General Reserach, Training and Consultancy Service PLC"
 description              : &description "personal description"
 url                      : https://zetseatz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "ZETSEAT Research, Training and Consultancy PLC"
+  name             : "ZETSEAT PLC"
   avatar           : "profile.png"
   bio              : "General Research, Training and Consultancy Serivice"
   location         : "Bahirdar, Ethiopia"
