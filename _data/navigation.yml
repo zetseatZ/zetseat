@@ -12,17 +12,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Events"
-    url: /events/ 
+  #- title: "Events"
+  #  url: /events/ 
     
-  - title: "Members"
-    url: /portfolio/
+  #- title: "Members"
+  #  url: /portfolio/
                            
-  - title: "Join ZETSEAT"
-    url: /join/
+  #- title: "Join ZETSEAT"
+  #  url: /join/
     
-  - title: "About us"
-    url: /about/
+  #- title: "About us"
+   # url: /about/
                  
   - title: "Contact us"
     url: /contact/
