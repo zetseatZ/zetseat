@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Home"
+    url: /home/
+	
   - title: "Projects"
     url: /projects/
 
@@ -15,8 +18,8 @@ main:
   - title: "Events"
     url: /events/ 
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
   
   - title: "Members"
     url: /members/
