@@ -15,8 +15,11 @@ main:
   - title: "Events"
     url: /events/ 
     
-  - title: "Members"
+  - title: "Portfolio"
     url: /portfolio/
+	
+  - title: "Members"
+    url: /members/
                            
   - title: "Join ZETSEAT"
     url: /join/
