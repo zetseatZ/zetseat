@@ -1,5 +1,5 @@
 ---
-permalink: /members/
+permalink: /
 title: "Project Members"
 excerpt: "Members"
 author_profile: true
