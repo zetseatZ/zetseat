@@ -1,5 +1,5 @@
 ---
-permalink: /members
+permalink: /members/
 title: "Founder Members"
 excerpt: "Members"
 author_profile: true
