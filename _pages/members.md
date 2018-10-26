@@ -1,16 +1,15 @@
 ---
-permalink: /
-title: "Project Members"
+permalink: /members
+title: "Founder Members"
 excerpt: "Members"
 author_profile: true
 redirect_from: 
-  - /members/
+  - /md/
   - /members.html
 ---
 
 ZETSEAT consists of members from academia, industry and research institutes.
 
-#### Members:
 <table>
   <thead>
     <tr>
@@ -21,7 +20,7 @@ ZETSEAT consists of members from academia, industry and research institutes.
   <tbody>
 	<tr>
       <td><a href="https://zetseatz.github.io/"> <img src="{{ site.url }}/images/alachew.jpeg" width="128" alt="Muluken"> </a></td>
-			<td>  <b> Muluken Azage Yenesew (PhD) </b> <br /> Dean of School of Public Health, College of Medicine and Health Sciences, <br /> 
+			<td>  <b> Muluken Azage Yenesew (PhD) </b> <br /> Dean of School of Public Health, College of Medicine and Health Sciences <br /> 
 			Bahir Dar University, Ethiopia </td>
     </tr>
 	<tr>
@@ -41,7 +40,7 @@ ZETSEAT consists of members from academia, industry and research institutes.
     </tr>
     <tr>
       <td><a href="https://zetseatz.github.io/"> <img src="{{ site.url }}/images/alachew.jpeg" width="128" alt="Alachew"> </a></td>
-			<td> <b>Alachew Shitahun Mengist </b> <br /> PhD Candidate and Researcher <br /> Linkoping University, Sweden <br /></td>
+			<td> <b>Alachew Shitahun Mengist (PhD Candidate)</b> <br /> Researcher <br /> Linkoping University, Sweden <br /></td>
     </tr>
   </tbody>
 </table>
