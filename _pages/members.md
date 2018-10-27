@@ -14,23 +14,25 @@ ZETSEAT consists of members from academia, industry and research institutes.
   <tbody>
 	<tr>
       <td><a href="https://zetseatz.github.io/"> <img src="{{ site.url }}/images/alachew.jpeg" width="128" alt="Muluken"> </a></td>
-			<td>  <b> Muluken Azage Yenesew (PhD) </b> <br /> Dean of School of Public Health, College of Medicine and Health Sciences <br /> 
+			<td>  <strong> Muluken Azage Yenesew (PhD) </strong> <br /> Dean of School of Public Health, College of Medicine and Health Sciences <br /> 
 			Bahir Dar University, Ethiopia </td>
 			
       <td><a href="https://zetseatz.github.io/"> <img src="{{ site.url }}/images/alachew.jpeg" width="128" alt="Achenef"> </a></td>
-	  <td>  <b> Achenef Motbainor Begosew (PhD) </b> <br /> Public Health Researcher <br /> School of Public Health, College of Medicine and Health Sciences <br />
-            Bahir Dar University, Ethiopia </td>
-
+	  <td>  <strong> Achenef Motbainor Begosew (PhD) </strong> <br /> Public Health Researcher <br /> School of Public Health, College of Medicine and Health Sciences <br />
+            Bahir Dar University, Ethiopia </td> </b>
+	</tr>
+	<tr>
       <td><a href="https://zetseatz.github.io/"> <img src="{{ site.url }}/images/alachew.jpeg" width="128" alt="Netsanet"> </a></td>
-	  <td>  <b> Netsanet Fentahun  (PhD) </b> <br /> Public Health Researcher <br /> School of Public Health, College of Medicine and Health Sciences <br />
+	  <td>  <strong> Netsanet Fentahun  (PhD) </strong> <br /> Public Health Researcher <br /> School of Public Health, College of Medicine and Health Sciences <br />
             Bahir Dar University, Ethiopia </td>
 
    	  <td><a href="https://zetseatz.github.io/"> <img src="{{ site.url }}/images/alachew.jpeg" width="128" alt="Zewdie"> </a></td>
-	  <td>  <b> Zewdie Aderaw Alemu (PhD) </b> <br /> Lecturer and Researcher <br /> Department of Medicine <br />
-            Addis Ababa University, Ethiopia </td>
-
+	  <td>  <strong>Zewdie Aderaw Alemu (PhD) </strong> <br /> Lecturer and Researcher <br /> Department of Medicine <br />
+            Addis Ababa University, Ethiopia </td> </b>
+	</tr>
+	<tr>
       <td><a href="https://zetseatz.github.io/"> <img src="{{ site.url }}/images/alachew.jpeg" width="128" alt="Alachew"> </a></td>
-			<td> <b>Alachew Shitahun Mengist (PhD Candidate)</b> <br /> Researcher <br /> Linkoping University, Sweden <br /></td>
+			<td> </strong> Alachew Shitahun Mengist (PhD Candidate) <s/trong> <br /> Researcher <br /> Linkoping University, Sweden <br /></td>
     </tr>
   </tbody>
 </table>
