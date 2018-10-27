@@ -7,16 +7,10 @@ redirect_from:
   - /md/
   - /members.html
 ---
-<link rel="stylesheet" href="css/releases.css">
+
 ZETSEAT consists of members from academia, industry and research institutes.
 
 <table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-    </tr>
-  </thead>
   <tbody>
 	<tr>
       <td><a href="https://zetseatz.github.io/"> <img src="{{ site.url }}/images/alachew.jpeg" width="128" alt="Muluken"> </a></td>
