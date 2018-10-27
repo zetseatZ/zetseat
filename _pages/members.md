@@ -32,7 +32,7 @@ ZETSEAT consists of members from academia, industry and research institutes.
 	</tr>
 	<tr>
       <td><a href="https://zetseatz.github.io/"> <img src="{{ site.url }}/images/alachew.jpeg" width="128" alt="Alachew"> </a></td>
-			<td> </strong> Alachew Shitahun Mengist (PhD Candidate) <s/trong> <br /> Researcher <br /> Linkoping University, Sweden <br /></td>
+			<td> </strong> Alachew Shitahun Mengist (PhD Candidate) </strong> <br /> Researcher <br /> Linkoping University, Sweden <br /></td>
     </tr>
   </tbody>
 </table>
