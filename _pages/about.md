@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: " ????"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About us 
+About Zteseat 
 ------
 Coming soon...under construction
